@@ -30,15 +30,13 @@ Java, Javascript, Python 등을 이용한 웹 사이트를 만들었습니다.
 - 연극 정보 열람
 - vibe 코딩으로 구현
 
-> 각 프로젝트는 레포지토리 또는 Notion에서 확인 가능합니다.
-
 ---
 
 ## 🛠️ Tech Stack
 
 - **언어**: Python, Java, JavaScript, HTML/CSS/JS, Oracle, SQL
 - **프레임워크/도구**: Spring, mySQL
-- **버전관리**: Git, GitHub
+- **버전관리**: GitHub
 
 ---
 
