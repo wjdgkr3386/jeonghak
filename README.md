@@ -53,13 +53,13 @@ Java, Javascript, Python 등을 이용한 웹 사이트를 만들었습니다.
 
 ## 📬 Contact
 
-- Email: **aebon@kyonggi.ac.kr**
+- Email: **wjdgkr3386@naver.com**
 
-더 나은 기술 교육을 고민하는 모든 분과 협업하고 싶습니다.
+끊임없이 배우고 성장하고 싶습니다.
 Feel free to connect!
 
 ---
 
-> © 2024 Aebon Lee | Powered by Whisper, GPT, and lifelong curiosity.
+> © 2024 Jeonghak Kim | Powered by Whisper, GPT, and lifelong curiosity.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
