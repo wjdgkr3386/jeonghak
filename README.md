@@ -36,19 +36,9 @@ Java, Javascript, Python 등을 이용한 웹 사이트를 만들었습니다.
 
 ## 🛠️ Tech Stack
 
-- **언어**: Python, PyTorch,  Java, R, HTML/CSS/JS  
-- **프레임워크/도구**: Streamlit, Whisper, LangChain, KoGPT2, HuggingFace  
-- **데이터분석**: Pandas, Matplotlib, Jamovi, PowerBI 등 
-- **버전관리**: Git, GitHub  
-- **시각화**: Adobe Tools, Canva, 미리캔버스, Notion, PPT 외 다수
-
----
-
-## 📝 Publications & Lectures
-
-- **논문**: 사회적 지능과 학업열의 영향 분석 (JCCT, 2025) 외 다수  
-- **저서**: 컴퓨터활용능력 2급 필기 (피앤피북), ChatGPT 프롬프트 엔지니어링 외  
-- **강의**: 경기대, 단국대, 한신대, KOSA, NIPA 등 연 1,200시간 이상 강의
+- **언어**: Python, Java, JavaScript, HTML/CSS/JS, Oracle, SQL
+- **프레임워크/도구**: Spring, mySQL
+- **버전관리**: Git, GitHub
 
 ---
 
