@@ -34,7 +34,7 @@ Java, Javascript, Python 등을 이용한 웹 사이트를 만들었습니다.
 
 ## 🛠️ Tech Stack
 
-- **언어**: Python, Java, JavaScript, HTML/CSS/JS, Oracle, SQL
+- **언어**: Python, Java, JavaScript, HTML/CSS/JQuery, Oracle, SQL
 - **프레임워크/도구**: Spring, mySQL
 - **버전관리**: GitHub
 
